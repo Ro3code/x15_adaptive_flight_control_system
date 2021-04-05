@@ -1,1 +1,2 @@
-# x15_adaptive_flight_control_system
+# Simplified Model of the X-15's MH-96 Adaptive Flight Control System
+The Simulink model includes the MH-96 flight control system, the actuators, and the X-15's pitch rate dynamics at Mach 1.2 and flight level FL400.
