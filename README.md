@@ -3,4 +3,4 @@
 
 This Simulink model includes the MH-96 flight control system, the actuators, and the X-15's pitch rate dynamics at Mach 1.2 and flight level FL400.
 
-You can find more information about this implementation in the following Medium [article](https://link.medium.com/hmfCfwYuPfb). 
+You can find more information about this implementation in the following Medium [article](https://link.medium.com/hmfCfwYuPfb). To download the official releases and rate this simulation environment, please visit its page on [FileExchange](https://es.mathworks.com/matlabcentral/fileexchange/91315-x15_adaptive_flight_control_system).
